@@ -1,2 +1,2 @@
-def add(int a, int b):
+def add(a, b):
   return a+b
